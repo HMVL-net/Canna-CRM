@@ -94,4 +94,4 @@ Canna-CRM is a comprehensive CRM system designed specifically for the cannabis i
 
 ---
 ## Additional Notes
-- Cloud configuration is avaliable with documentation as well for setup.
+- Cloud configuration is avaliable and comes with documentation to set it up.
